@@ -33,6 +33,20 @@
 ### Languages and Tools
 [![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](https://docs.soliditylang.org/en/v0.8.14/)[![Remix](https://img.shields.io/badge/-REMIX-007aa6?style=for-the-badge)](https://remix.ethereum.org/) [![Ganache](https://img.shields.io/badge/-GANACHE-e4a663?style=for-the-badge)](https://trufflesuite.com/ganache/) [![IPFS](https://img.shields.io/badge/-IPFS-5bb5bf?style=for-the-badge)](https://ipfs.io/) [![Metamask](https://img.shields.io/badge/-METAMASK-f5841f?style=for-the-badge)](https://metamask.io/) [![Openzeppelin](https://img.shields.io/badge/-OPENZEPPELIN-63b0f9?style=for-the-badge)](https://www.openzeppelin.com/contracts)
 
+### 📕 Latest Blog Posts
+- [Solving the Mystery of Export to Excel in NodeJS](https://medium.com/globant/the-mystery-behind-export-to-excel-in-nodejs-dd2563285e66)
+- [The Secret Sauce of Micro Frontends: Doing it by the books](https://medium.com/globant/the-secret-sauce-of-micro-frontends-doing-it-by-the-books-249eba69a0fd)
+- [The Secret Sauce of Micro Frontends: Preventing bundle bloat using SystemJS and Single-SPA](https://medium.com/globant/the-secret-sauce-of-micro-frontends-preventing-bundle-bloat-using-systemjs-and-single-spa-5fdf15b2a82a)
+
+➡️ [more blog posts...](https://medium.com/@faizvasya)
+
+
+
+
+
+
+
+
 
 
 
