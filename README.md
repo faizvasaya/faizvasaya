@@ -56,6 +56,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+[![Faizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizvasaya)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
