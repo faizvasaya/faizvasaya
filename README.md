@@ -20,7 +20,7 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
   <tbody>
     <tr>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Frontend</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"/></a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Backend</b></a></td>
