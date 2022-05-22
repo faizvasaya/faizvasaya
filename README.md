@@ -19,7 +19,7 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Frontend</b></a></td>
+      <td><a href="" rel="nofollow"><b>Frontend</b></a></td>
       <td>
 	      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"/></a>
 	      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"/></a>
@@ -31,10 +31,12 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
 	      <a href="https://jasmine.github.io/" rel="nofollow"><img alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" data-canonical-src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" style="max-width: 100%;"/></a>
 	</td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Backend</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+	<tr>
+      <td><a href="" rel="nofollow"><b>Backend</b></a></td>
+      <td>
+	      <a href="https://nodejs.org/en/" rel="nofollow"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"/></a>
+	</td>
+    	</tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Database</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
