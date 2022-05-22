@@ -20,7 +20,16 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
   <tbody>
     <tr>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Frontend</b></a></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"/></a></td>
+      <td>
+	      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;"/></a>
+	      <a href="https://www.typescriptlang.org/" rel="nofollow"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://angular.io/" rel="nofollow"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" data-canonical-src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://reactjs.org/" rel="nofollow"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"/></a>
+	      <a href="https://webpack.js.org/" rel="nofollow"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" data-canonical-src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://jasmine.github.io/" rel="nofollow"><img alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" data-canonical-src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white" style="max-width: 100%;"/></a>
+	</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Backend</b></a></td>
@@ -40,11 +49,6 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
     </tr>
   </tbody>
 </table>
-
-
-### Frontend
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org/) [![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)](https://jasmine.github.io/)
-
 
 
 ### Backend
