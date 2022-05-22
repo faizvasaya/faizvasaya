@@ -15,13 +15,10 @@
 ### Backend
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/) [![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/) [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/) 
 
-
-
-
-
-
-
 ### Database
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 
 ### Deployment and CI/CD
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/) 
@@ -34,7 +31,17 @@
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://ethereum.org/en/) [![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)](https://docs.chain.link/docs/chainlink-vrf/) [![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](https://docs.soliditylang.org/en/v0.8.14/)
 
 ### Tools
-[![Remix](https://img.shields.io/badge/-REMIX-007aa6?style=for-the-badge)](https://remix.ethereum.org/)
+[![Remix](https://img.shields.io/badge/-REMIX-007aa6?style=for-the-badge)](https://remix.ethereum.org/) [![Ganache](https://img.shields.io/badge/-GANACHE-e4a663?style=for-the-badge)](https://trufflesuite.com/ganache/) [![IPFS](https://img.shields.io/badge/-IPFS-5bb5bf?style=for-the-badge)](https://ipfs.io/) [![Metamask](https://img.shields.io/badge/-METAMASK-f5841f?style=for-the-badge)](https://metamask.io/) [![Openzeppelin](https://img.shields.io/badge/-OPENZEPPELIN-63b0f9?style=for-the-badge)](https://www.openzeppelin.com/contracts) 
+
+
+
+
+
+
+
+
+
+
 
 
 
