@@ -1,7 +1,8 @@
-### Hi there, I'm Faizal Vasaya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=faizvasaya&color=yellow)</div>
+### Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=faizvasaya&color=yellow)</div>
 
-
-I am a passionate self-taught full-stack web/decentralized application developer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant user interfaces and scalable backend architectures. In addition to that, I am a Bibliophile, a Health freak, and a LinkedIn Influencer !!!
+<p>Welcome to my page!
+<br />
+I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized application developer and a freelance software engineer from 🇮🇳 Pune, India. My passion for software lies in dreaming up ideas and making them come true with elegant user interfaces and scalable backend architectures. In addition to that, I am a Bibliophile, a Health freak, and a LinkedIn Influencer !!!<p/>
 
 ### Connect with me for freelance work or just to have a conversation
 
@@ -23,7 +24,9 @@ I am a passionate self-taught full-stack web/decentralized application developer
 
 
 ### Deployment and CI/CD
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/) 
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/) [![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) 
+
+
 
 ### Cloud Technologies
 
