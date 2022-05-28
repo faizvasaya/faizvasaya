@@ -19,7 +19,7 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
   </thead>
   <tbody>
     <tr>
-      <td><a href="" rel="nofollow"><b>Frontend</b></a></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" rel="nofollow"><b>Frontend</b></a></td>
       <td>
 	      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"/></a>
 	      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"/></a>
@@ -32,7 +32,7 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
 	</td>
     </tr>
 	<tr>
-      <td><a href="" rel="nofollow"><b>Backend</b></a></td>
+      <td><a href="https://www.techopedia.com/definition/29568/back-end-developer#:~:text=A%20back%2Dend%20developer%20is,front%2Dend%20application%20or%20system." rel="nofollow"><b>Backend</b></a></td>
       <td>
 	      <a href="https://nodejs.org/en/" rel="nofollow"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"/></a>
 	      <a href="https://expressjs.com/" rel="nofollow"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" data-canonical-src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;"/></a>
@@ -46,7 +46,7 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
 	</td>
     	</tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Database</b></a></td>
+      <td><a href="https://www.techtarget.com/searchdatamanagement/definition/database#:~:text=A%20database%20is%20information%20that,data%2C%20financials%20and%20product%20information."><b>Database</b></a></td>
       <td>
 	      <a href="https://www.mongodb.com/" rel="nofollow"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" data-canonical-src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width: 100%;"/></a>
 	      <a href="https://www.mysql.com/" rel="nofollow"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;"/></a>
@@ -54,7 +54,7 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
 	</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Deployment and CI/CD</b></a></td>
+      <td><a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd"><b>Deployment and CI/CD</b></a></td>
       <td>
 	      <a href="https://www.docker.com/" rel="nofollow"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" data-canonical-src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="max-width: 100%;"/></a>
 	      <a href="https://azure.microsoft.com/en-us/services/devops/" rel="nofollow"><img alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" data-canonical-src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" style="max-width: 100%;"/></a>
@@ -62,19 +62,14 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Cloud Technologies</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://azure.microsoft.com/en-in/overview/what-is-cloud-computing/"><b>Cloud Technologies</b></a></td>
+      <td>
+	      <a href="https://cloud.google.com/" rel="nofollow"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" data-canonical-src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://azure.microsoft.com/en-in/" rel="nofollow"><img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" data-canonical-src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="max-width: 100%;"/></a>
+     </td>
     </tr>
   </tbody>
 </table>
-
-
-### Cloud Technologies
-
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/) [![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-in/)
-
-
-
 
 
 ## Web 3.0 Technology Stack
