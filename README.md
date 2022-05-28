@@ -4,13 +4,13 @@
 <br />
 I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized application developer and a freelance software engineer from 🇮🇳 Pune, India. My passion for software lies in dreaming up ideas and making them come true with elegant user interfaces and scalable backend architectures. In addition to that, I am a Bibliophile, a Health freak, and a LinkedIn Influencer !!!<p/>
 
-### Connect with me for freelance work or just to have a conversation
+### :eyes: Connect with me for freelance work or just to have a conversation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizalvasaya/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FaizalVasaya) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizvasya@gmail.com)
 
 <!-- Start of Web2.0 Technology stack -->
 
-<h3>Web2.0 Technology Stack</h3>
+<h3> :desktop_computer: Web2.0 Technology Stack</h3>
 
 <table>
   <thead align="center">
@@ -75,7 +75,7 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
 <!-- End of Web2.0 Technology stack -->
 
 <!-- Start of Web3.0 Technology stack -->
-<h3>Web3.0 Technology Stack</h3>
+<h3> :chains: Web3.0 Technology Stack</h3>
 
 <table>
   <thead align="center">
@@ -128,7 +128,7 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
   </table>
 </center>
 
-### Sponsor
+### :dollar: Sponsor
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 
