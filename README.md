@@ -37,6 +37,12 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
 	      <a href="https://nodejs.org/en/" rel="nofollow"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" data-canonical-src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"/></a>
 	      <a href="https://expressjs.com/" rel="nofollow"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" data-canonical-src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;"/></a>
 	      <a href="https://nestjs.com/" rel="nofollow"><img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" data-canonical-src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://jestjs.io/" rel="nofollow"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" data-canonical-src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://www.twilio.com/" rel="nofollow"><img alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" data-canonical-src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://socket.io/" rel="nofollow"><img alt="SocketIO" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" data-canonical-src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://business.whatsapp.com/" rel="nofollow"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://developers.google.com/gmail/api" rel="nofollow"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://www.confluent.io/what-is-apache-kafka/" rel="nofollow"><img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" data-canonical-src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" style="max-width: 100%;"/></a>
 	</td>
     	</tr>
     <tr>
@@ -53,10 +59,6 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
     </tr>
   </tbody>
 </table>
-
-
-### Backend
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/) [![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://www.twilio.com/) [![SocketIO](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)](https://socket.io/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://business.whatsapp.com/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://developers.google.com/gmail/api) [![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://www.confluent.io/what-is-apache-kafka/) 
 
 
 ### Database
