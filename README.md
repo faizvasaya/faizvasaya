@@ -55,7 +55,11 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
     </tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Deployment and CI/CD</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td>
+	      <a href="https://www.docker.com/" rel="nofollow"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" data-canonical-src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://azure.microsoft.com/en-us/services/devops/" rel="nofollow"><img alt="Azure Devops" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" data-canonical-src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" style="max-width: 100%;"/></a>
+	      <a href="https://github.com/features/actions" rel="nofollow"><img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" data-canonical-src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" style="max-width: 100%;"/></a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Cloud Technologies</b></a></td>
@@ -63,10 +67,6 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
     </tr>
   </tbody>
 </table>
-
-### Deployment and CI/CD
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/) [![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions) 
-
 
 
 ### Cloud Technologies
