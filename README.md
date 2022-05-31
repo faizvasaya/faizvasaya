@@ -116,6 +116,13 @@
 </table>
 
 <!-- End of Web3.0 Technology stack -->
+
+<h2>Certifications and Badges</h2>
+
+<a href="https://www.credential.net/4d16af1a-a3a3-48d3-bc3b-61d5c68c694f?key=3ca700a54e6e390ffb58ab53b67655da9f213324dc5d5d78e29a00027d12cdcf&record_view=true" rel="nofollow">
+	<img alt="Google cloud certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/26285047?key=3ca700a54e6e390ffb58ab53b67655da9f213324dc5d5d78e29a00027d12cdcf" data-canonical-src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/26285047?key=3ca700a54e6e390ffb58ab53b67655da9f213324dc5d5d78e29a00027d12cdcf" style="max-width: 10%;"/>
+</a>
+
 ---
 <details>
   <summary><h2> :star2: Top Recommendations </h2></summary>
