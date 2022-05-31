@@ -109,9 +109,11 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
 
 <!-- End of Web3.0 Technology stack -->
 
-### Top Recommendations
+### :star2: Top Recommendations
 
-
+<div>
+<img alt="Ashish Recommendation" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.17.26%20AM.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.17.26%20AM.png" style="width: 49%;"/> <img alt="Mayur Recommendation" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.17.48%20AM.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.17.48%20AM.png" style="width: 49%;"/> <img alt="Amey Recommendation" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.18.45%20AM.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.18.45%20AM.png" style="width: 49%;"/> <img alt="Karishma Recommendation" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.19.11%20AM.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.19.11%20AM.png" style="width: 49%; top: -10px"/>
+</div>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
