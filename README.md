@@ -6,7 +6,7 @@
 <br />
 <br />
 	<samp>
-	I am <b>Faizal Vasaya</b>, a passionate self-taught full-stack web/decentralized application developer and a freelance software engineer from 🇮🇳 Pune, India. <br />
+	I am <b>Faizal Vasaya</b>, a passionate🥇, self-taught🔧full-stack web/decentralized application developer and a freelance software engineer from 🇮🇳 Pune, India. <br />
 		My passion for software lies in dreaming up ideas and making them come true with elegant user interfaces and scalable backend architectures. I have demonstratable experience and solid expertise in creating end to end <b>Web2.0</b> and <b>Web3.0</b> applications. In addition to that, I am a Bibliophile, a Health freak, and a LinkedIn Influencer !!!<p/>
 		</samp>
 
@@ -141,6 +141,12 @@
     </tr>   
   </table>
 </center>
+
+## 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/faizalvasaya/30min" target="_blank" rel="noreferrer noopener"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ## :dollar: Sponsor
 
