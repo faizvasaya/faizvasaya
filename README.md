@@ -121,6 +121,9 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
 <details>
   <summary><h3> 📕 Latest Blog Posts </h3></summary>
 <!-- BLOG-POST-LIST:START -->
+- [The mystery behind export to excel in NodeJS](https://medium.com/globant/the-mystery-behind-export-to-excel-in-nodejs-dd2563285e66?source=rss-17fca8c55ab7------2)
+- [The Secret Sauce of Micro Frontends: Doing it by the books](https://medium.com/globant/the-secret-sauce-of-micro-frontends-doing-it-by-the-books-249eba69a0fd?source=rss-17fca8c55ab7------2)
+- [The Secret Sauce of Micro Frontends: Preventing bundle bloat using SystemJS and Single-spa](https://medium.com/globant/the-secret-sauce-of-micro-frontends-preventing-bundle-bloat-using-systemjs-and-single-spa-5fdf15b2a82a?source=rss-17fca8c55ab7------2)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
