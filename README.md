@@ -1,5 +1,7 @@
 ### Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=faizvasaya&color=yellow)</div>
 
+<img alt="Banner" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/brand-assets/Github%20Banner.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/brand-assets/Github%20Banner.png" style="max-width: 100%;"/>
+
 <p>Welcome to my page!
 <br />
 I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized application developer and a freelance software engineer from 🇮🇳 Pune, India. My passion for software lies in dreaming up ideas and making them come true with elegant user interfaces and scalable backend architectures. In addition to that, I am a Bibliophile, a Health freak, and a LinkedIn Influencer !!!<p/>
