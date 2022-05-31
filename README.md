@@ -1,4 +1,4 @@
-### Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=faizvasaya&color=yellow)</div>
+## Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=faizvasaya&color=yellow)</div>
 
 <img alt="Banner" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/brand-assets/Github%20Banner.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/brand-assets/Github%20Banner.png" style="max-width: 100%;"/>
 
@@ -6,13 +6,13 @@
 <br />
 I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized application developer and a freelance software engineer from 🇮🇳 Pune, India. My passion for software lies in dreaming up ideas and making them come true with elegant user interfaces and scalable backend architectures. I have demonstrated experience and solid expertise in creating end to end Web2.0 and Web3.0 applications. In addition to that, I am a Bibliophile, a Health freak, and a LinkedIn Influencer !!!<p/>
 
-### :eyes: Want connect with me for freelance work or just to have a conversation. You can find me here:
+## :eyes: Want connect with me for freelance work or just to have a conversation. You can find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizalvasaya/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FaizalVasaya) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faizvasya) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizvasya@gmail.com)  
 
 <!-- Start of Web2.0 Technology stack -->
 
-<h3> :desktop_computer: Web2.0 Technology Stack</h3>
+<h2> :desktop_computer: Web2.0 Technology Stack</h2>
 
 <table>
   <thead align="center">
@@ -77,7 +77,7 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
 <!-- End of Web2.0 Technology stack -->
 
 <!-- Start of Web3.0 Technology stack -->
-<h3> :chains: Web3.0 Technology Stack</h3>
+<h2> :chains: Web3.0 Technology Stack</h2>
 
 <table>
   <thead align="center">
@@ -112,20 +112,20 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
 <!-- End of Web3.0 Technology stack -->
 
 <details>
-  <summary><h3> :star2: Top Recommendations </h3></summary>
+  <summary><h2> :star2: Top Recommendations </h2></summary>
 <div>
 <img alt="Ashish Recommendation" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.17.26%20AM.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.17.26%20AM.png" style="width: 49%;"/> <img alt="Mayur Recommendation" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.17.48%20AM.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.17.48%20AM.png" style="width: 49%;"/> <img alt="Amey Recommendation" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.18.45%20AM.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.18.45%20AM.png" style="width: 49%;"/> <img alt="Karishma Recommendation" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.19.11%20AM.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/recommendations-images/Screenshot%202022-05-29%20at%209.19.11%20AM.png" style="width: 49%; top: -10px"/>
 </div>
 </details>
 
-### <h3> 📕 Latest Blog Posts </h3>
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The mystery behind export to excel in NodeJS](https://medium.com/globant/the-mystery-behind-export-to-excel-in-nodejs-dd2563285e66?source=rss-17fca8c55ab7------2)
 - [The Secret Sauce of Micro Frontends: Doing it by the books](https://medium.com/globant/the-secret-sauce-of-micro-frontends-doing-it-by-the-books-249eba69a0fd?source=rss-17fca8c55ab7------2)
 - [The Secret Sauce of Micro Frontends: Preventing bundle bloat using SystemJS and Single-spa](https://medium.com/globant/the-secret-sauce-of-micro-frontends-preventing-bundle-bloat-using-systemjs-and-single-spa-5fdf15b2a82a?source=rss-17fca8c55ab7------2)
 <!-- BLOG-POST-LIST:END -->
 
-### :zap: GitHub Stats
+## :zap: GitHub Stats
 
 <center>
   <table>
@@ -136,7 +136,7 @@ I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized applic
   </table>
 </center>
 
-### :dollar: Sponsor
+## :dollar: Sponsor
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 
