@@ -4,7 +4,8 @@
 
 <p>Welcome to my page!
 <br />
-I am Faizal Vasaya, a passionate self-taught full-stack web/decentralized application developer and a freelance software engineer from 🇮🇳 Pune, India. My passion for software lies in dreaming up ideas and making them come true with elegant user interfaces and scalable backend architectures. I have demonstrated experience and solid expertise in creating end to end Web2.0 and Web3.0 applications. In addition to that, I am a Bibliophile, a Health freak, and a LinkedIn Influencer !!!<p/>
+	I am <b>Faizal Vasaya</b>, a passionate self-taught full-stack web/decentralized application developer and a freelance software engineer from 🇮🇳 Pune, India. My passion for software lies in dreaming up ideas and making them come true with elegant user interfaces and scalable backend architectures. 
+	I have demonstratable experience and solid expertise in creating end to end <b>Web2.0</b> and <b>Web3.0</b> applications. In addition to that, I am a Bibliophile, a Health freak, and a LinkedIn Influencer !!!<p/>
 
 ## :eyes: Want connect with me for freelance work or just to have a conversation. You can find me here:
 
