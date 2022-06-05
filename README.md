@@ -1,4 +1,4 @@
-## Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=faizvasaya&color=yellow)</div>
+## Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:25px"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=faizvasaya&color=yellow)</div>
 
 <img alt="Banner" src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/brand-assets/Github%20Banner.png" data-canonical-src="https://raw.githubusercontent.com/faizvasaya/faizvasaya/main/brand-assets/Github%20Banner.png" style="max-width: 100%;"/>
 
