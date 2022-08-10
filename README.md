@@ -124,6 +124,10 @@
 	<img alt="Google cloud certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/26285047?key=3ca700a54e6e390ffb58ab53b67655da9f213324dc5d5d78e29a00027d12cdcf" data-canonical-src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/26285047?key=3ca700a54e6e390ffb58ab53b67655da9f213324dc5d5d78e29a00027d12cdcf" style="width:10%; max-width: 10%;"/>
 </a>
 
+<a href="https://www.credential.net/bdb4ece8-4bba-4f41-be0d-d03d63b9478b?key=be51f2512cc03061e8a5996cf92be5e71fbe317baab3504bec24af1dc688983a&record_view=true" rel="nofollow">
+	<img alt="Google cloud certification" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56257368?key=be51f2512cc03061e8a5996cf92be5e71fbe317baab3504bec24af1dc688983a" data-canonical-src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56257368?key=be51f2512cc03061e8a5996cf92be5e71fbe317baab3504bec24af1dc688983a" style="width:10%; max-width: 10%;"/>
+</a>
+
 ---
 <details>
   <summary><h2> :star2: Top Recommendations </h2></summary>
