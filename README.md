@@ -6,12 +6,12 @@
 <br />
 <br />
 	<samp>
-	I am <b>Faizal Vasaya</b>, a passionate🥇, self-taught🔧full-stack web/decentralized application developer and a freelance software engineer from 🇮🇳 Pune, India. <br />
+	I am <b>Faizal Vasaya</b>, a passionate🥇, self-taught🔧full-stack web/decentralized application developer from 🇮🇳 Pune, India. <br />
 		My passion for software lies in dreaming up ideas and making them come true with elegant user interfaces and scalable backend architectures. I have demonstratable experience and solid expertise in creating end to end <b>Web2.0</b> and <b>Web3.0</b> applications. In addition to that, I am a Bibliophile, a Health freak, and a LinkedIn Influencer !!!<p/>
 		</samp>
 
 
-## :eyes: Want connect with me for freelance work or just to have a conversation. You can find me here:
+## :eyes: Want connect to have a conversation. You can find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizalvasaya/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FaizalVasaya) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faizvasya) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizvasya@gmail.com)  
 
